@@ -45,7 +45,7 @@ Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install
 
 - **Clone repository**
 ```bash
-git clone https://github.com/rickyfazaa/MySPAMBot-OTP
+git clone https://github.com/RassNoMercy/MySPAMBot-OTP
 ```
 - **Masuk kedalam directory**
 ```sh
