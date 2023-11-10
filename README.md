@@ -81,5 +81,5 @@ python main.py
 
 ## Support Me 
 ## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK, BIAR GK KETINGGALAN UPDATE YGY)
-### [**My Instagram: @rickyfazaa**](https://www.instagram.com/rickyfazaa)    
-Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/rickyfazaa).
+### [**My Instagram: @farras_281**](https://www.instagram.com/farras_281)    
+Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/farras_281).
